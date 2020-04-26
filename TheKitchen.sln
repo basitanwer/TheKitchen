@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheKitchen", "TheKitchen\TheKitchen.vcxproj", "{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheKitchen", "TheKitchen\TheKitchen.vcxproj", "{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
