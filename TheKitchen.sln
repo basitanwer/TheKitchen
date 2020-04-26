@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheKitchen", "TheKitchen\TheKitchen.vcxproj", "{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,12 +17,18 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Debug|x64.ActiveCfg = Debug|x64
 		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Debug|x64.Build.0 = Debug|x64
-		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Debug|x86.ActiveCfg = Debug|Win32
-		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Debug|x86.Build.0 = Debug|Win32
+		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Debug|x86.ActiveCfg = Debug|x64
 		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Release|x64.ActiveCfg = Release|x64
 		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Release|x64.Build.0 = Release|x64
-		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Release|x86.ActiveCfg = Release|Win32
-		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Release|x86.Build.0 = Release|Win32
+		{0A84C9B9-0CEA-4F83-9D13-51138B954FEF}.Release|x86.ActiveCfg = Release|x64
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Debug|x64.ActiveCfg = Debug|x64
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Debug|x64.Build.0 = Debug|x64
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Debug|x86.Build.0 = Debug|Win32
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Release|x64.ActiveCfg = Release|x64
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Release|x64.Build.0 = Release|x64
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Release|x86.ActiveCfg = Release|Win32
+		{BE5AD318-B4D0-48C8-ABDC-1AA76D8D11EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
